@@ -1,6 +1,7 @@
 # Verify
 - Difficulty: Easy
 - Category: Forensics  
+- Date: 2024-09-10  
 tags: `picoCTF 2024` `grep` `browser_webshell_solvable` `checksum`  
 refer to [Source](https://play.picoctf.org/practice/challenge/450)
 
